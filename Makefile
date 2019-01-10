@@ -1,4 +1,4 @@
-# dockerç”¨ Makefile
+# docker Makefile
 
 all: rm build up ps
 
